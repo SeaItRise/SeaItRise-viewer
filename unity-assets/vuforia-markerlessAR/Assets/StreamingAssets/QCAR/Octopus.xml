@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nat-geo-april2017" size="200.000000 292.968750" />
+    <ImageTarget name="s5-cover" size="50.000000 81.502892" />
+    <ImageTarget name="map-book-cover" size="5.000000 7.238002" />
+    <ImageTarget name="remove-before-flight" size="5.000000 1.031426" />
+    <ImageTarget name="oto-logo-sea-BLACK" size="250.000000 202.594254" />
+    <ImageTarget name="oto-logo-sea-blue" size="5.000000 4.051885" />
+    <ImageTarget name="vrOctopus" size="5.000000 4.249771" />
+    <ImageTarget name="Octopus_Front_140096" size="5.000000 4.423077" />
+  </Tracking>
+</QCARConfig>
